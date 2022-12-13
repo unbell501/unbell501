@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Introduce
 
-어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 주로 를 만드는데 관심이 많은 프로그래머입니다. 
+어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 주로 웹 페이지를 만드는데 관심이 많은 프로그래머입니다. 
 
 ## Available Skills 
 ### Languages
