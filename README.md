@@ -43,12 +43,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white/>
 </div>
 
-## Stack
 
-- React.js
-- Node.js
-- React-Native
-- Android-Studio
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unbell501&theme=tokyonight)](https://git.io/streak-stats)
