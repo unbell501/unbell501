@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 </div>
 
+<div>
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-
+</div>
 
 ### Tools
 <div>
