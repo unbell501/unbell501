@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=👩🏻‍💻💻📚🤓📑&fontAlign=70)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d2843&lines=🙌🏻Hello+World🙌🏻♀&font=Redressed&size=40)](https://git.io/typing-svg)
+## AlpoxDev : Service Programmer
+
+어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 주로 를 만드는데 관심이 많은 프로그래머입니다. 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d2843&lines=🙌🏻Hello+World🙌🏻&font=Redressed&size=40)](https://git.io/typing-svg)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unbell501&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
@@ -48,9 +53,6 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## AlpoxDev : Service Programmer
-
-어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 실 서비스를 만드는데 관심이 많은 프로그래머입니다. 
 
 ## Stack
 
