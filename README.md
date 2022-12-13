@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ### Languages
 <div>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
