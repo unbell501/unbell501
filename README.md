@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=👩🏻‍💻💻📚🤓📑&fontAlign=70)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d2843&lines=🙌🏻Hello+World🙌🏻🏻‍♀&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d2843&lines=🙌🏻Hello+World🙌🏻♀&font=Redressed&size=40)](https://git.io/typing-svg)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unbell501&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
