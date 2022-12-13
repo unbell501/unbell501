@@ -28,6 +28,13 @@ Here are some ideas to get you started:
 
 어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 주로 를 만드는데 관심이 많은 프로그래머입니다. 
 
+## Available Skills 
+### Languages
+<div>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+</div>
+
 ## Stack
 
 - React.js
