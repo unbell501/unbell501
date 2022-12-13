@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
 
