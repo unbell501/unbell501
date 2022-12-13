@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&pause=1000&color=1E3B97&width=435&lines=🙌🏻Hello+World🙌text-align: center;🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&pause=1000&color=1E3B97&width=435&lines=🙌🏻Hello+World🙌)](https://git.io/typing-svg)
 
 ## Introduce
 
@@ -37,13 +37,11 @@ Here are some ideas to get you started:
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=unbell501&theme=tokyonight&show_icons=true" width="42%" />
-
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </a>
-
-
+<a>
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unbell501&theme=tokyonight)](https://git.io/streak-stats)
-
+</a>
 
 
 
