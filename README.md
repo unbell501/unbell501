@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 </div>
 
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
