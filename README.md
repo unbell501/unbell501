@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d2843&lines=🙌🏻Hello+World🙌🏻&font=Redressed&size=40)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&pause=1000&color=1E3B97&width=435&lines=🙌🏻🏻Hello+World🙌%2C+World.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&pause=1000&color=1E3B97&width=435&lines=🙌🏻Hello+World🙌🏻%2C+World.)](https://git.io/typing-svg)
 
 ## Introduce
 
