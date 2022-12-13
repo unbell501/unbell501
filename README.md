@@ -42,9 +42,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d2843&lines=🙌🏻Hello+World🙌&font=Redressed&size=40)](https://git.io/typing-svg)
 
-[![yulim's github activity graph](https://activity-graph.herokuapp.com/graph?username=unbell501&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unbell501&theme=tokyonight)](https://git.io/streak-stats)
 
